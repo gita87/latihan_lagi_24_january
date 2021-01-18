@@ -10,3 +10,9 @@ for index in range(1,5):
     print(f'halo anak {index}')
 
 
+ingin_cepat = False
+if ingin_cepat:
+    print('jalan lurus')
+else:
+    print ('jalan muter')
+
